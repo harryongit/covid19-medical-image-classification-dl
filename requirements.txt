@@ -1,0 +1,22 @@
+tensorflow>=2.6,<3.0
+keras>=2.6
+numpy>=1.19
+pandas>=1.1
+scikit-learn>=0.24
+matplotlib>=3.3
+seaborn>=0.10
+opencv-python>=4.5
+Pillow>=8.0
+scikit-image>=0.17
+h5py>=2.10
+tqdm>=4.50
+
+# Augmentation / Utilities
+albumentations>=0.5.2
+tensorflow-addons>=0.13.0
+
+# Notebooks & Dev
+jupyter
+notebook
+ipython
+kaggle
